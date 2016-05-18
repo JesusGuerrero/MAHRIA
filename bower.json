@@ -1,0 +1,11 @@
+{
+  "name": "mahria",
+  "version": "0.0.1",
+  "authors": [
+    "Jesus Rocha <jesus.rocha@whichdegree.co>"
+  ],
+  "description": "MAHRIA Stack",
+  "dependencies": {
+    "mahria-header": "git@github.com:JesusGuerrero/MAHRIA-HEADER.git"
+  }
+}
