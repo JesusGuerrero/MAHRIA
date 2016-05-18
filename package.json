@@ -1,0 +1,20 @@
+{
+  "name": "mahria",
+  "version": "0.0.1",
+  "description": "MAHRIA Stack",
+  "repository": {},
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-contrib-copy": "^0.1.2"
+  },
+  "dependencies": {
+    "boom": "2.10.1",
+    "good": "6.3.0",
+    "good-console": "5.3.1",
+    "hapi": "8.8.1",
+    "jade": "1.11.0",
+    "mahria-sockets": "0.0.1",
+    "node-env-file": "0.1.8"
+  }
+}
